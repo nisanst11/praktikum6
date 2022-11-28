@@ -10,7 +10,7 @@ nilai dengan pendekatan "Key-Value".
         2. Yang kedua adalah VALUE, ia adalah nilai yang disimpan pada suatu atribut.
 
 ## SOURCE CODE
-![gambar1](gambar/al1.png)
+![gambar1](https://github.com/nisanst11/praktikum6/blob/master/screenshoot/gambar1.jpeg)
 
 ## PENJELASAN
 
