@@ -24,7 +24,7 @@ nilai dengan pendekatan "Key-Value".
 8. Untuk menghapus salah satu kontak menggunakan statement `del variable_dictionary[keys];`. Python `del r['Dina'];`.
 
 ## OUTPUT 
-![gambar2](gambar/al2.png)
+![gambar2](https://github.com/nisanst11/praktikum6/blob/master/screenshoot/gambar2.jpeg)
 
 # PRAKTIKUM - DICTIONARY
 
