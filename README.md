@@ -29,9 +29,9 @@ nilai dengan pendekatan "Key-Value".
 # PRAKTIKUM - DICTIONARY
 
 ## SOURCE CODE
-![gambar3](gambar/al9.png)
+![gambar3](https://github.com/nisanst11/praktikum6/blob/master/screenshoot/gambar3.jpeg)
 
-![gambar4](gambar/al10.png)
+![gambar4](https://github.com/nisanst11/praktikum6/blob/master/screenshoot/gambar4.jpeg)
 
 ## PENJELASAN
 
@@ -128,17 +128,17 @@ elif a=="c" or a=="C":
 ```
 
 ## OUTPUT
-![gambar5](gambar/al3.png)
+![gambar5](https://github.com/nisanst11/praktikum6/blob/master/screenshoot/gambar5.jpeg)
 
-![gambar6](gambar/al4.png)
+![gambar6](https://github.com/nisanst11/praktikum6/blob/master/screenshoot/gambar6.jpeg)
 
-![gambar7](gambar/al5.png)
+![gambar7](https://github.com/nisanst11/praktikum6/blob/master/screenshoot/gambar7.jpeg)
 
-![gambar8](gambar/al6.png)
+![gambar8](https://github.com/nisanst11/praktikum6/blob/master/screenshoot/gambar8.jpeg)
 
-![gambar9](gambar/al7.png)
+![gambar9](https://github.com/nisanst11/praktikum6/blob/master/screenshoot/gambar9.jpeg)
 
-![gambar10](gambar/al8.png)
+![gambar10](https://github.com/nisanst11/praktikum6/blob/master/screenshoot/gambar10.jpeg)
 
 ## FLOWCHART
-![gambar11](gambar/al11.png)
+![gambar11](https://github.com/nisanst11/praktikum6/blob/master/screenshoot/flowchart.jpeg)
